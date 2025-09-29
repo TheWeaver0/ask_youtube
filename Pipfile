@@ -11,7 +11,8 @@ flask = "*"
 fastapi = "*"
 youtube-transcript-api = "*"
 tiktoken = "*"
-elasticsearch = "*"
+elasticsearch = "<9,>=8"
+pytube = "*"
 
 [dev-packages]
 tqdm = "*"
