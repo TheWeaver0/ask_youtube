@@ -13,6 +13,8 @@ youtube-transcript-api = "*"
 tiktoken = "*"
 elasticsearch = "<9,>=8"
 pytube = "*"
+google-api-python-client = "*"
+json5 = "*"
 
 [dev-packages]
 tqdm = "*"
